@@ -6,7 +6,7 @@
         "magento/module-theme": "100.2.*"
     },
     "suggest": {
-        "webgriffe/theme-frontend-bootstrap": "^1.0"
+        "jamie-selesti/theme-frontend-bootstrap": "^1.0"
     },
     "type": "magento2-module",
     "version": "1.0.1",
